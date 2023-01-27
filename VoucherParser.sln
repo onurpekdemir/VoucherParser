@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoucherParser", "VoucherParser\VoucherParser.csproj", "{E7FB9A5F-E374-4328-9BDC-07145043BFED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7FB9A5F-E374-4328-9BDC-07145043BFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FB9A5F-E374-4328-9BDC-07145043BFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FB9A5F-E374-4328-9BDC-07145043BFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FB9A5F-E374-4328-9BDC-07145043BFED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0311661-55B7-444A-9DE9-8ABAF41F8F49}
+	EndGlobalSection
+EndGlobal
